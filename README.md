@@ -2,7 +2,7 @@
 1. cd into the root folder of this repository.
 2. create a python environment by the following command:
 
-`conda env create -f code/environment.yaml`
+`conda env create -f environment.yaml`
 
 3. activate environment:
 
